@@ -1,0 +1,77 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	text-align: center;
+	line-height: 1.6em;
+}
+#main {
+	width:80%;
+			margin: 0 auto;
+	
+
+
+	color: #ddcfc8;
+	font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+	font-size: 1.2em;
+}
+blockquote {
+	font-style: italic;
+}
+
+img {
+	max-width: 330px;
+	width: 100%;
+	margin: 0 auto;
+	display: block;
+	background: grey;
+	padding: 3px;
+}
+
+figcaption {
+	font-size: 0.8rem;
+	color: red;
+}
+
+figure {
+	text-align: center;
+}
+
+h1 {
+	width: 60%;
+background:#444;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+	border-radius: 4px;
+	text-shadow: 1px 1px;
+		box-shadow: 5px 5px 3px 1px #222;
+}
+p {
+	text-align: left;
+}
+
+.txt {
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#tribute-info {
+}
+#tribute-link {
+	text-decoration: none;
+}
+#tribute-link a {
+	text-decoration: none;
+	font-family: Gill Sans Extrabold, sans-serif;
+}
+ul {
+	text-align: left;
+}
+#tribute-info{  
+	margin: auto;
+	width: 60%;
+	text-align: justify;
+}
